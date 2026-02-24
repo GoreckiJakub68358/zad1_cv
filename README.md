@@ -7,7 +7,7 @@
 ## 🔗 Linki
 
 - 📁 **Repozytorium:** [https://github.com/GoreckiJakub68358/zad1_cv](https://github.com/GoreckiJakub68358/zad1_cv)
-- 🌐 **GitHub Pages:** [link do strony, jeśli opublikowana]
+- 🌐 **GitHub Pages:** [link do strony, jeśli opublikowana](https://goreckijakub68358.github.io/zad1_cv/)
 
 ## 📋 Opis projektu
 
