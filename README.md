@@ -55,3 +55,6 @@ Projekt realizowany w ramach zadania zaliczeniowego.
 ### v0.8 – styles
 - Dodano podstawowe style CSS
 - Usunięto podstawowe style z sekcji `<style>` i dodano oddzielny plik `style.css` z finalnymi stylami CSS
+
+### v0.9 – final review
+- Poprawki i ostateczna wersja projektu
